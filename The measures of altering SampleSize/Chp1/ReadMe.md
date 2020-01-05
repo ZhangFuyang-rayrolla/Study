@@ -95,8 +95,7 @@ plt.figure(figsize=(50,50),dpi=2000)  # レイアウトの設定
 plt.show()
 
 #
-"""
 result
+
 ![Unknown](https://user-images.githubusercontent.com/54937248/71776010-fe081d80-2fcc-11ea-99cc-5e223cde2592.png)
-"""
-```
+
